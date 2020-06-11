@@ -6,7 +6,7 @@
 	  <name>projet devops</name>
 	  
 	  <properties>
-	    <maven.compiler.source>6</maven.compiler.source>
+	    <maven.compiler.source>7</maven.compiler.source>
 	    <maven.compiler.target>1.6</maven.compiler.target>
 	</properties>
 
